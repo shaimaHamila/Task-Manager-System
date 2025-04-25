@@ -8,9 +8,8 @@ This is a **Task Manager System** created for learning purposes using **Laravel*
 
 - **User Authentication**: Users can register, log in, and manage their accounts with secure authentication.
 - **Member Management**: Create, update, delete, and view members with detailed information.
-- **Task Management**: Assign, update, track, and delete tasks for members.
-- **Pagination**: Efficient handling of large datasets with pagination for users, members, and tasks.
-- **Modals**: User-friendly modals for adding/editing members and tasks.
+- **Task Management**: create, update, track, and delete tasks for users.
+- **Pagination**: Efficient handling of data with pagination for users, members, and tasks.
 - **Flash Messages**: Success and error messages for a better user experience.
 
 ## Tech Stack
